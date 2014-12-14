@@ -59,7 +59,7 @@ char SERVER[] = "rtupdate.wunderground.com";           // Realtime update server
 //char SERVER [] = "weatherstation.wunderground.com";  //standard server
 char WEBPAGE [] = "GET /weatherstation/updateweatherstation.php?";
 char ID [] = "KFLFORTM67";
-char PASSWORD [] = "webf113b";
+char PASSWORD [] = "XXXXXXX";
 
 // byte timeServer[] = {192, 43, 244, 18}; // time.nist.gov NTP server
 byte timeServer0[] = {
